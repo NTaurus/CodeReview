@@ -1,0 +1,1 @@
+{"name":"Local: selectSort","url":"d:\\Datas\\temp\\algorithm\\datastruct review\\Sort\\selectSort.cpp","tests":[{"id":1629599239092,"input":"10\n7 5 2 6 3 1 4 10 9 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Datas\\temp\\algorithm\\datastruct review\\Sort\\selectSort.cpp","group":"local","local":true}

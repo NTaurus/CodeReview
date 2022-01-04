@@ -1,0 +1,1 @@
+{"name":"Local: qsortclassify","url":"d:\\Datas\\temp\\algorithm\\datastruct review\\practise\\qsortclassify.cpp","tests":[{"id":1637912665973,"input":"10\n2 5 -1 -4 2 2 -9 10 3 -5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Datas\\temp\\algorithm\\datastruct review\\practise\\qsortclassify.cpp","group":"local","local":true}

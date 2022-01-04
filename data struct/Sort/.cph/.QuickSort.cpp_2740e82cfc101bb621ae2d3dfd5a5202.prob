@@ -1,0 +1,1 @@
+{"name":"Local: QuickSort","url":"d:\\Datas\\temp\\algorithm\\datastruct review\\Sort\\QuickSort.cpp","tests":[{"id":1629016025568,"input":"10\n8 5 2 10 6 3 1 9 4 7","output":"1 3 7 9 11 17 23 30 41 44"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Datas\\temp\\algorithm\\datastruct review\\Sort\\QuickSort.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: MatrixChain","url":"d:\\Datas\\temp\\algorithm\\datastruct review\\algorithm\\third\\MatrixChain.cpp","tests":[{"id":1630418322383,"input":"6\n30 35 15 5 10 20 25","output":"15125"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Datas\\temp\\algorithm\\datastruct review\\algorithm\\third\\MatrixChain.cpp","group":"local","local":true}

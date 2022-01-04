@@ -1,0 +1,1 @@
+{"name":"Local: MemoizedMatrixChain","url":"d:\\Datas\\temp\\algorithm\\datastruct review\\algorithm\\MemoizedMatrixChain.cpp","tests":[{"id":1630379372346,"input":"6\n30 35 15 5 10 20 25","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Datas\\temp\\algorithm\\datastruct review\\algorithm\\MemoizedMatrixChain.cpp","group":"local","local":true}

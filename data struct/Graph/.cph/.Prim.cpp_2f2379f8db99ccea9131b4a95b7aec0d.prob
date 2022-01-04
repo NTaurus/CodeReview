@@ -1,0 +1,1 @@
+{"name":"Local: Prim","url":"d:\\Datas\\temp\\algorithm\\datastruct review\\Graph\\Prim.cpp","tests":[{"id":1631415874731,"input":"6 8\n0 1 3\n0 2 1\n1 2 1\n1 3 1\n1 4 3\n3 4 1\n4 5 5\n2 5 2","output":"0 1 1 1 1 2 \n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Datas\\temp\\algorithm\\datastruct review\\Graph\\Prim.cpp","group":"local","local":true}

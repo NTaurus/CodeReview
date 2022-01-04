@@ -1,0 +1,1 @@
+{"name":"Local: AVL","url":"d:\\Datas\\temp\\algorithm\\datastruct review\\Tree\\AVL.cpp","tests":[{"id":1628653088102,"input":"8\n1 2 3 4 5 6 7 8","output":"4 2 1 3 6 5 7 8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Datas\\temp\\algorithm\\datastruct review\\Tree\\AVL.cpp","group":"local","local":true}

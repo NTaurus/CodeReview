@@ -1,0 +1,1 @@
+{"name":"Local: GraphDefine","url":"d:\\Datas\\temp\\algorithm\\datastruct review\\Graph\\GraphDefine.cpp","tests":[{"id":1638426543919,"input":"5 7\n0 2\n0 1\n1 4\n2 3\n2 4\n3 1\n4 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Datas\\temp\\algorithm\\datastruct review\\Graph\\GraphDefine.cpp","group":"local","local":true}
